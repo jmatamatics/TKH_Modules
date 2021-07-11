@@ -1,0 +1,87 @@
+How do computers use input and output to create experiences?
+
+Computer create experiences by taking in data, processing that data, and producing outputs. Inputs are data that is entered into the computer. Examples of inputs are humans typing, moving and/or clicking a mouses. Computers can also receive input from other sources like the internet and email. Once received, the computer processes the input and sends it to an output function which expresses the processed data in a new form. Examples of output functions are the computer monitor, speakers, and printers. 
+
+Real-World Example:
+
+Input:  Human says “Hey Siri play Jay Z songs.”
+
+Processing:  The computer processes the instructions.
+
+Output: The computer plays Jay Z songs through its speakers.
+
+
+
+
+
+
+
+Software are “infinitely reproducible nothings”
+
+Software are programs that perform specific tasks. Examples of software are Microsoft Word and Google Chrome. Since software has no physical form, it can be easily uploaded, updated and reproduced on a computer without limit. For that reason, software is called an “infinitely reproducible nothings”.
+
+
+
+
+
+How does code become software?
+
+Code is first broken up into smaller parts. Once the code is parsed, it is translated into machine language by way of a compiler. The translation is called object code. The object 
+
+code is then passed to a linker which combines the object codes and other previous compiled object codes into a program/software.
+
+
+
+
+
+Algorithms 
+
+Algorithms are a set rules used to carry out a specific calculation or task. These rules have to be done step-by-step.  Algorithms take in specific inputs to produce a specified output. A recipe can be considered an algorithm. The inputs are the ingredients, the steps are the food prep and cooking instructions, and the output is the desired meal. 
+
+
+
+
+
+The DRY Principle
+
+The DRY principle means to keep code simple. The goal is to reduce the repetition of information. For example, if an algorithm is made, it should be stored for reuse later as opposed to recreating an algorithm every time it is needed. Redundancy in code should be avoided whenever possible.
+
+
+
+
+
+What is Object Oriented Programming (OOP)?
+
+OOP uses classes and objects instead of action and logic to complete tasks in an effort to follow the DRY principle. Classes are reusables pieces of code to create objects. These objects are instantiations or specific examples of the class. Classes have attributes but are abstract in nature. For example, if we had the class ‘car’, its attributes could be the color, brand, and model.  An object of class ‘car’ could be a black 2021 Nissan Maxima. The use of classes and objects allows code to be reproducible and simplified.
+
+
+
+
+
+What is data how does it relate to code?
+
+Data and code are both examples of information. Data refers to the information that is used as input for an application. Data also represents the information that is outputted from an application.  Code is information that is used as a set of instructions for a given input. Code defines how data will be used and changed into new data.
+
+
+
+
+
+What is a framework?
+
+A framework is the basic structure of a program. It provides a template that takes care of redundant basic tasks. It simplifies and standardizes the steps need to make an application. The framework tells a developer what is needed to create a given application.
+
+
+
+
+
+What is debugging?
+
+Debugging is a form of troubleshooting. “Bugs” are programming errors. Debugging is the process in which one looks for errors within a software or system. Once errors are detected, they are resolved to ensure the software or system is running properly.
+
+
+
+
+
+Why I want to learn code?
+
+Coding allows me the ability to use data as a resource to predict behavior, monitor progress, perform certain actions, and recognize patterns. Therefore, it can increase my problem solving and logic skills. It also saves time.  As a coder, I can use computers to solve or identify problems much faster than a human could do alone. I can also automate mundane tasks allowing me to focus or more important issues. The world is producing more and more data. Be able to manipulate that information can make my life more efficient and enjoyable.

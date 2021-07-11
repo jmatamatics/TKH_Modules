@@ -1,0 +1,22 @@
+
+What is Git and how is it different from Github?
+
+Git manages your source code history. It is a version control system. Github is a remote hosting of git repositories. It is a platform used to save code, track its versions, and collaborate with others.
+
+
+
+Why use the terminal?
+
+Terminals are a direct way to speak to your computer. The terminal uses a lot less system resources than a graphic user interface(GUI). More so, the use of terminals only requires a keyboard while a GUI requires a keyboard and mouse. Lastly, they keep a track record of what you done making it possible to review your actions. 
+
+
+
+
+
+Explain 3 benefits of version control in your own words
+
+1.Version control allows you to keep history and track any changes you or your collaborators make. If changes made to a project caused problems to occur, developers can determine the specific cause and remove it. 
+
+2. Version Controls allows to have backups of your work on different machines to ensure no data is lost.
+
+3. Version Control allows you to clone projects and experiment on them. You can test new code/features before applying them to the master project.
